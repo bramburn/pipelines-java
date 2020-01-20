@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/nitr021/Test%20Java/_apis/build/status/bramburn.pipelines-java?branchName=master)](https://dev.azure.com/nitr021/Test%20Java/_build/latest?definitionId=2&branchName=master)
+
 
 # Contributing
 
